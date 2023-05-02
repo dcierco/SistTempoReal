@@ -1,0 +1,52 @@
+CBBAAcA...cbb..caaa.cbb..c....
+16 7
+0.6000 OK
+
+BCCAAbA...bcc..baaa.bcc..b....
+16 7
+0.6000 OK
+
+CAABBcB...caa..cbbb.caa..c....
+16 7
+0.6000 OK
+
+BAACCbC...baa..bccc.baa..b....
+16 7
+0.6000 OK
+
+ABBCCaC...abb..accc.abb..a....
+16 7
+0.6000 OK
+
+ACCBBaB...acc..abbb.acc..a....
+16 7
+0.6000 OK
+
+CCBBBccAAAccbbbccaaaccbbbccaa.
+12 18
+0.9667 OK
+
+CBBBAcAAAAcbbbAcaaaacbbbaca...
+15 16
+0.9000 OK
+
+CBBBAcAAAAcbbbAcaaaacbbbaca...
+15 16
+0.9000 OK
+
+AABBaabbaabbaa.baab.
+11 9
+0.9000 OK
+
+ABBaBbabbabbab.
+11 6
+0.9333 OK
+
+ABBaBbabbabbab.
+11 6
+0.9333 OK
+
+Aaaaaaaaaa
+1 0
+1.0000 OK
+

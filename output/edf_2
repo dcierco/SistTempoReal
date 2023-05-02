@@ -1,0 +1,80 @@
+A
+0 1
+1.0000 OK
+
+AA
+0 1
+1.0000 OK
+
+AAB
+1 2
+1.0000 OK
+
+AABB
+1 3
+1.0000 OK
+
+AABBa
+2 4
+1.0000 OK
+
+AABBaa
+2 4
+1.0000 OK
+
+AABBaaB
+3 5
+1.0000 OK
+
+AABBaaBB
+3 6
+1.0000 OK
+
+AABBaaBBa
+4 7
+1.0000 OK
+
+AABBaaBBaa
+4 7
+1.0000 OK
+
+AABBaaBBaab
+5 7
+1.0000 OK
+
+AABBaaBBaabb
+5 8
+1.0000 OK
+
+AABBaaBBaabba
+6 9
+1.0000 OK
+
+AABBaaBBaabbaa
+6 9
+1.0000 OK
+
+AABBaaBBaabbaab
+7 10
+1.0000 OK
+
+AABBaaBBaabbaabb
+7 11
+1.0000 OK
+
+AABBaaBBaabbaabba
+8 12
+1.0000 OK
+
+AABBaaBBaabbaabbaa
+8 12
+1.0000 OK
+
+AABBaaBBaabbaabbaab
+9 13
+1.0000 OK
+
+AABBaaBBaabbaabbaabb
+9 13
+1.0000 OK
+

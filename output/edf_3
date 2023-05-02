@@ -1,0 +1,48 @@
+A
+0 1
+0.9167 OK
+
+AA
+0 1
+0.9167 OK
+
+AAB
+1 1
+0.9167 OK
+
+AABC
+2 2
+0.9167 OK
+
+AABCa
+3 3
+0.9167 OK
+
+AABCaa
+3 3
+0.9167 OK
+
+AABCaab
+4 3
+0.9167 OK
+
+AABCaabC
+5 4
+0.9167 OK
+
+AABCaabCa
+6 5
+0.9167 OK
+
+AABCaabCaa
+6 5
+0.9167 OK
+
+AABCaabCaaC
+7 5
+0.9167 OK
+
+AABCaabCaaC.
+8 5
+0.9167 OK
+

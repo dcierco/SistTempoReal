@@ -1,0 +1,40 @@
+ABBBBa....abbbba....
+7 6
+0.6000 OK
+
+AABBBaaB..aabbbaab..
+9 10
+0.8000 OK
+
+AABBBaaBB.aabbbaabb.
+9 12
+0.9000 OK
+
+ABB..abb..abb..abb..
+11 4
+0.6000 OK
+
+ABB.abb.a.bba..bab..
+14 4
+0.6500 OK
+
+ABBa.bab.abba..abba.
+15 4
+0.7333 OK
+
+ABBCabbCaCbbaccbabc.
+15 8
+0.9500 OK
+
+AABBaabbaabbaacbaabc
+11 11
+1.2000 NOK
+
+ABDCabcdabcdabecabdeabcdabcdab
+29 0
+1.1000 NOK
+
+ABDCabcdabcdabgcabdf
+19 0
+1.2000 NOK
+
